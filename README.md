@@ -1,2 +1,1 @@
-# .well-known-discord
- 
+Under development website
